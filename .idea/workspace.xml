@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acef001c-3df0-4ed1-9fb3-385fdd82e944" name="变更" comment="init project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-mobile-api/src/main/java/com/edu/mall/mobile/controller/HelloController.java" afterDir="false" />
+    <list default="true" id="acef001c-3df0-4ed1-9fb3-385fdd82e944" name="变更" comment="Hello,SpringBoot">
+      <change afterPath="$PROJECT_DIR$/mall-mobile-api/src/main/java/com/edu/mall/mobile/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mobile-api/src/main/java/com/edu/mall/mobile/utils/ResponseUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,7 @@
       <updated>1675861502211</updated>
       <workItem from="1675861503667" duration="502000" />
       <workItem from="1675862100447" duration="229000" />
-      <workItem from="1676027177163" duration="1331000" />
+      <workItem from="1676027177163" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1675861983102</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675861983102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello,SpringBoot">
+      <created>1676036141205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676036141205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="Hello,SpringBoot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello,SpringBoot" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
