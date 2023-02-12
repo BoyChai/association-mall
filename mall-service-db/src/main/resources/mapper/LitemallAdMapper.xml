@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--https://mybatis.org/mybatis-3/zh/getting-started.html-->
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.mapper.LitemallAdMapper">
+<!--    sql语句:
+            id是Mapper接口中对应方法的方法名
+            resultType查询结果中一行数据映射的java类(对象)
+ -->
+    <select id="selectAdList" resultType="org.example.po.LitemallAd">
+        select * from litemall_ad
+    </select>
+</mapper>
